@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipCalculator_Jesse</string>
+    <string name="tipVal1">12%</string>
+    <string name="tipVal2">15%</string>
+    <string name="tipVal3">18%</string>
+    <string name="Custom">Other Amount</string>
+    <string name="TotalA">Please enter the total.</string>
+    <string name="People">Please enter the amount of people.</string>
+    <string name="CustomTip">Please custom tip %.</string>
+</resources>

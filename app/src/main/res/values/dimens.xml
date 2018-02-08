@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="MarginEnd"> 8dp </dimen>
+    <dimen name="MarginStart8"> 8dp </dimen>
+    <dimen name="MarginStart16"> 16dp </dimen>
+</resources>
